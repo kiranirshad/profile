@@ -1,2 +1,2 @@
 # portfolio
-https://kirannoor.github.io/portfolio/
+ https://kirannoor.github.io/profile/
