@@ -9,3 +9,13 @@
     left: 10px;
         top: 0;
 }
+#app {
+  font-size: 60px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  float: right;
+  position: absolute;
+  right: 80px;
+  top: 0;
+}
